@@ -1,0 +1,55 @@
+# Plantilla de Variables de Entorno
+# Copia este archivo como .env y ajusta los valores según tu configuración
+
+# Configuración de OLLAMA
+OLLAMA_BASE_URL=http://localhost:11434
+OLLAMA_MODEL=llama3
+
+# Configuración de PostgreSQL / Supabase
+# 
+# OPCIÓN 1: Cliente Supabase (Project URL + API Key) - MÁS FÁCIL Y RECOMENDADO
+# Obtén estos valores desde Settings > API en tu proyecto de Supabase
+SUPABASE_URL=https://tu-project-ref.supabase.co
+SUPABASE_KEY=tu_anon_key_o_service_role_key_aqui
+
+# OPCIÓN 2: URL completa de conexión PostgreSQL directa
+# Para Supabase: Obtén la URL desde Settings > Database > Connection string
+# Formato Supabase Pooler: postgresql://postgres.[PROJECT_REF]:[PASSWORD]@aws-0-[REGION].pooler.supabase.com:6543/postgres
+# Formato Supabase Direct: postgresql://postgres:[PASSWORD]@db.[PROJECT_REF].supabase.co:5432/postgres
+# Formato PostgreSQL local: postgresql://usuario:contraseña@host:puerto/nombre_base_datos
+# DATABASE_URL=postgresql://postgres:postgres@localhost:5432/vision_assistant
+
+# OPCIÓN 3: Componentes de Supabase para construir URL PostgreSQL (alternativa)
+# Si prefieres usar componentes en lugar de URL completa, descomenta y completa:
+# SUPABASE_PROJECT_REF=tu_project_ref_aqui
+# SUPABASE_DB_PASSWORD=tu_contraseña_aqui
+# SUPABASE_REGION=us-east-1
+# SUPABASE_CONNECTION_MODE=pooler
+# Nota: Si usas esta opción, deja DATABASE_URL vacío o coméntalo
+
+# Configuración de YOLO
+YOLO_MODEL=yolov8n.pt
+YOLO_CONFIDENCE_THRESHOLD=0.5
+YOLO_PROCESS_EVERY_N_FRAMES=5
+
+# Configuración de TTS (Text-to-Speech)
+TTS_ENGINE=gtts
+TTS_LANGUAGE=es
+TTS_RATE=150
+TTS_VOLUME=0.8
+
+# Configuración de captura de video
+CAMERA_INDEX=0
+VIDEO_WIDTH=640
+VIDEO_HEIGHT=480
+VIDEO_FPS=30
+
+# Configuración de procesamiento
+MAX_DESCRIPTION_LENGTH=500
+AUDIO_QUEUE_MAX_SIZE=3
+CACHE_DESCRIPTIONS=true
+
+# Configuración de logging
+LOG_LEVEL=INFO
+LOG_FILE=vision_assistant.log
+

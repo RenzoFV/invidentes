@@ -1,0 +1,631 @@
+2025-12-01 12:47:32,701 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 12:47:32,702 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 12:47:32,702 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 12:47:32,703 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 12:47:33,803 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 12:47:34,067 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios "HTTP/1.1 201 Created"
+2025-12-01 12:47:34,072 - modules.database_manager - INFO - Usuario 'default' creado
+2025-12-01 12:47:34,174 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 12:47:34,175 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 12:47:34,176 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 12:47:34,176 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 12:47:34,176 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 12:47:35,222 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 12:47:35,223 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 12:47:35,234 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 12:47:35,235 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 12:47:35,236 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:02:56,633 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:02:56,633 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:02:56,633 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:02:56,633 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:02:58,006 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:02:58,120 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:02:58,122 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:02:58,122 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:02:58,123 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:02:58,123 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:02:58,253 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:02:58,253 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:02:58,274 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:02:58,275 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:02:58,276 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:03:21,062 - utils.helpers - INFO - Detección iniciada
+2025-12-01 13:03:21,564 - playsound - ERROR - 
+    Error 305 for command:
+        open "audio_cache\cf24144ea49f64411bca95322102a4d0.mp3"
+    No puede especificar más caracteres después de una cadena entre comillas.
+2025-12-01 13:03:21,564 - playsound - ERROR - 
+    Error 263 for command:
+        close "audio_cache\cf24144ea49f64411bca95322102a4d0.mp3"
+    El dispositivo especificado no está abierto o MCI no lo reconoce.
+2025-12-01 13:03:21,564 - playsound - WARNING - Failed to close the file: "audio_cache\cf24144ea49f64411bca95322102a4d0.mp3"
+2025-12-01 13:03:21,564 - modules.audio_module - ERROR - Error al reproducir archivo de audio: 
+    Error 305 for command:
+        open "audio_cache\cf24144ea49f64411bca95322102a4d0.mp3"
+    No puede especificar más caracteres después de una cadena entre comillas.
+2025-12-01 13:06:57,487 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:06:57,487 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:06:57,487 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:06:57,487 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:06:57,503 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:06:57,505 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:06:57,505 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:06:57,505 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:06:58,323 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:06:58,412 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:06:58,412 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:06:58,424 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:06:58,424 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:06:58,424 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:06:58,478 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:06:58,478 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:06:58,483 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:06:58,488 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:06:58,489 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:06:58,489 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:06:58,489 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:06:58,490 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:06:58,494 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:06:58,495 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:06:58,497 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:06:58,553 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:06:58,553 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:06:58,565 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:06:58,565 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:06:58,565 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:07:17,716 - utils.helpers - ERROR - Error al iniciar detección: name 'VIDEO_FPS' is not defined
+2025-12-01 13:07:36,486 - utils.helpers - ERROR - Error al iniciar detección: name 'VIDEO_FPS' is not defined
+2025-12-01 13:09:07,776 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:09:07,776 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:09:07,776 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:09:07,786 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:09:08,660 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:09:08,772 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:09:08,773 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:09:08,773 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:09:08,774 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:09:08,774 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:09:08,846 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:09:08,847 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:09:08,861 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:09:08,861 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:09:08,865 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:09:31,106 - utils.helpers - INFO - Detección iniciada
+2025-12-01 13:10:06,698 - modules.audio_module - INFO - Cola de audio limpiada
+2025-12-01 13:10:06,698 - utils.helpers - INFO - Detección detenida
+2025-12-01 13:14:38,801 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:14:38,802 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:14:38,802 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:14:38,803 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:14:40,026 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:14:40,028 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:14:40,029 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:14:40,030 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:14:40,030 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:14:40,030 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:14:40,083 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:14:40,084 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:14:40,098 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:14:40,100 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:14:40,100 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:14:56,293 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 13:15:19,508 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:15:39,435 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 13:15:40,097 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:15:40,389 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 13:15:41,920 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?id=eq.1 "HTTP/1.1 200 OK"
+2025-12-01 13:15:41,923 - modules.database_manager - INFO - Preferencias del usuario 1 actualizadas
+2025-12-01 13:16:02,299 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?id=eq.1 "HTTP/1.1 200 OK"
+2025-12-01 13:16:02,301 - modules.database_manager - INFO - Preferencias del usuario 1 actualizadas
+2025-12-01 13:16:03,609 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:16:03,808 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:16:03,810 - modules.database_manager - ERROR - Error al guardar detección: Object of type float32 is not JSON serializable
+2025-12-01 13:19:08,348 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:19:08,348 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:19:08,348 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:19:08,348 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:19:09,257 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:19:09,291 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:19:09,292 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:19:09,293 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:19:09,293 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:19:09,293 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:19:09,421 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:19:09,421 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:19:09,435 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:19:09,435 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:19:09,435 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:19:25,109 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 13:42:48,436 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:42:48,436 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:42:48,436 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:42:48,438 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:42:49,803 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:42:49,826 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:42:49,826 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:42:49,826 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:42:49,826 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:42:49,826 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:42:49,884 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:42:49,884 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:42:49,896 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:42:49,896 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:42:49,896 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:43:04,200 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 13:43:27,483 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 13:43:54,302 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 13:43:54,933 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 13:43:55,198 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 13:43:55,480 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:44:20,894 - modules.audio_module - INFO - Cola de audio limpiada
+2025-12-01 13:44:20,895 - utils.helpers - INFO - Detección detenida
+2025-12-01 13:44:55,391 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:44:55,392 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:44:55,392 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:44:55,393 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:44:56,188 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:44:56,191 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:44:56,193 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:44:56,193 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:44:56,194 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:44:56,194 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:44:56,297 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:44:56,298 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:44:56,310 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:44:56,310 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:44:56,311 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:45:09,563 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 13:45:22,692 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ae050d9ca0aac0191ca325a7c2b62522 "HTTP/1.1 200 OK"
+2025-12-01 13:45:34,770 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 13:45:35,383 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.ae050d9ca0aac0191ca325a7c2b62522 "HTTP/1.1 200 OK"
+2025-12-01 13:45:35,629 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 13:45:35,880 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:45:49,356 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 13:45:49,622 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 13:45:49,893 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:45:58,896 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 13:45:59,083 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 13:46:11,800 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.761857dac1fffbdedb2a5f174d2ead84 "HTTP/1.1 200 OK"
+2025-12-01 13:46:21,252 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 13:46:21,855 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.761857dac1fffbdedb2a5f174d2ead84 "HTTP/1.1 200 OK"
+2025-12-01 13:46:22,106 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 13:46:22,352 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:46:25,879 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?id=eq.1 "HTTP/1.1 200 OK"
+2025-12-01 13:46:25,881 - modules.database_manager - INFO - Preferencias del usuario 1 actualizadas
+2025-12-01 13:46:35,191 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.32ba4e55c694c71acac35a7f254d7039 "HTTP/1.1 200 OK"
+2025-12-01 13:46:52,519 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 13:46:52,803 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.32ba4e55c694c71acac35a7f254d7039 "HTTP/1.1 200 OK"
+2025-12-01 13:46:53,023 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 13:46:53,235 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:47:15,968 - modules.audio_module - INFO - Cola de audio limpiada
+2025-12-01 13:47:15,968 - utils.helpers - INFO - Detección detenida
+2025-12-01 13:50:16,879 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:50:16,879 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:50:16,879 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:50:16,879 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:50:17,794 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:50:17,818 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:50:17,819 - modules.audio_module - INFO - Volumen establecido a 0.8
+2025-12-01 13:50:17,819 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:50:17,819 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:50:17,819 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:50:17,900 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:50:17,901 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:50:17,916 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:50:17,917 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:50:17,918 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:50:31,707 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 13:50:54,509 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.4b05fd2492fc8bfe0426207e593da7d0 "HTTP/1.1 200 OK"
+2025-12-01 13:51:15,968 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 13:51:16,554 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.4b05fd2492fc8bfe0426207e593da7d0 "HTTP/1.1 200 OK"
+2025-12-01 13:51:16,802 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 13:51:16,879 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 13:51:17,125 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?id=eq.1 "HTTP/1.1 200 OK"
+2025-12-01 13:51:17,128 - modules.database_manager - INFO - Preferencias del usuario 1 actualizadas
+2025-12-01 13:51:37,226 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:51:37,470 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:51:38,373 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:52:01,658 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:52:01,893 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:52:25,065 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ae050d9ca0aac0191ca325a7c2b62522 "HTTP/1.1 200 OK"
+2025-12-01 13:52:25,257 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ae050d9ca0aac0191ca325a7c2b62522 "HTTP/1.1 200 OK"
+2025-12-01 13:52:26,118 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:52:49,210 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:52:49,465 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 13:52:50,114 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 13:55:50,955 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:55:50,955 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:55:50,955 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:55:50,955 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:55:52,423 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:55:52,440 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:55:52,441 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 13:55:52,443 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:55:52,443 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:55:52,444 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:55:52,500 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:55:52,504 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:55:52,516 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:55:52,516 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:55:52,516 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:56:52,670 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:56:52,671 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:56:52,672 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:56:52,673 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:56:53,335 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:56:53,341 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:56:53,341 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 13:56:53,341 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:56:53,341 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:56:53,341 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:56:53,387 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:56:53,387 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:56:53,403 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:56:53,403 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:56:53,403 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:57:09,860 - utils.helpers - INFO - Hilo de captura de video iniciado
+2025-12-01 13:57:09,860 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 13:58:55,478 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 13:58:55,478 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 13:58:55,478 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 13:58:55,478 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 13:58:56,350 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 13:58:56,369 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 13:58:56,371 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 13:58:56,371 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 13:58:56,372 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 13:58:56,372 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 13:58:56,419 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 13:58:56,420 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 13:58:56,431 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 13:58:56,431 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 13:58:56,433 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 13:59:13,770 - utils.helpers - INFO - Hilo de captura de video iniciado
+2025-12-01 13:59:13,771 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:01:15,437 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:01:15,437 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:01:15,437 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:01:15,437 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:01:16,265 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:01:16,301 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:01:16,302 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:01:16,302 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:01:16,302 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:01:16,302 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:01:16,350 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:01:16,351 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:01:16,362 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:01:16,363 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:01:16,364 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:01:29,195 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:02:15,025 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:02:15,422 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:02:16,390 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:02:44,828 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.32ba4e55c694c71acac35a7f254d7039 "HTTP/1.1 200 OK"
+2025-12-01 14:02:45,129 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.32ba4e55c694c71acac35a7f254d7039 "HTTP/1.1 200 OK"
+2025-12-01 14:02:46,067 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:03:09,154 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:03:09,401 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:03:10,068 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:03:32,916 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:03:33,112 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:03:55,750 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.60ce50f3f3ef70909bcde162a222b7e1 "HTTP/1.1 200 OK"
+2025-12-01 14:04:25,657 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:04:25,979 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.60ce50f3f3ef70909bcde162a222b7e1 "HTTP/1.1 200 OK"
+2025-12-01 14:04:26,177 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:04:29,440 - modules.audio_module - INFO - Cola de audio limpiada
+2025-12-01 14:04:29,440 - utils.helpers - INFO - Detección detenida
+2025-12-01 14:04:41,845 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:05:05,312 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:05:05,578 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:05:06,233 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:05:29,518 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.1a990d96a9b9f5291bd9a8d6e2e7be92 "HTTP/1.1 200 OK"
+2025-12-01 14:05:50,401 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:05:51,024 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.1a990d96a9b9f5291bd9a8d6e2e7be92 "HTTP/1.1 200 OK"
+2025-12-01 14:05:51,276 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:05:51,551 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:06:14,786 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.1a990d96a9b9f5291bd9a8d6e2e7be92 "HTTP/1.1 200 OK"
+2025-12-01 14:06:15,041 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.1a990d96a9b9f5291bd9a8d6e2e7be92 "HTTP/1.1 200 OK"
+2025-12-01 14:06:38,240 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:06:38,502 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:06:39,433 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:09:17,678 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:09:17,678 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:09:17,678 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:09:17,678 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:09:18,229 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:09:18,251 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:09:18,253 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:09:18,253 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:09:18,253 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:09:18,254 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:09:18,345 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:09:18,345 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:09:18,362 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:09:18,362 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:09:19,148 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 14:09:19,148 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 14:09:19,149 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:09:35,502 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:09:58,508 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:09:58,770 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:09:59,065 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:10:22,360 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:10:22,595 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:10:22,853 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:10:47,453 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.32ba4e55c694c71acac35a7f254d7039 "HTTP/1.1 200 OK"
+2025-12-01 14:10:47,729 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.32ba4e55c694c71acac35a7f254d7039 "HTTP/1.1 200 OK"
+2025-12-01 14:10:47,976 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:11:11,103 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:11:11,348 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:11:11,608 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:14:08,703 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:14:08,703 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:14:08,703 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:14:08,703 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:14:09,762 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:14:09,788 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:14:09,789 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:14:09,789 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:14:09,789 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:14:09,790 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:14:09,867 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:14:09,867 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:14:09,887 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:14:09,888 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:14:10,631 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 14:14:10,631 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 14:14:10,632 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:14:23,882 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:14:46,440 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:14:46,627 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:14:46,843 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:15:09,613 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:15:09,796 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:15:55,087 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:15:55,274 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:16:29,520 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?id=eq.1 "HTTP/1.1 200 OK"
+2025-12-01 14:16:29,523 - modules.database_manager - INFO - Preferencias del usuario 1 actualizadas
+2025-12-01 14:16:35,761 - modules.audio_detector - INFO - Detector de audio detenido
+2025-12-01 14:16:35,761 - modules.audio_module - INFO - Cola de audio limpiada
+2025-12-01 14:16:35,761 - utils.helpers - INFO - Detección detenida
+2025-12-01 14:16:47,796 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:17:33,740 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:17:33,992 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:17:34,897 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:17:58,181 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:17:58,181 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:17:58,183 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:17:58,183 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:17:58,879 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:17:58,902 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:17:58,904 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:17:58,904 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:17:58,904 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:17:58,905 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:17:58,957 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:17:58,958 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:17:58,973 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:17:58,973 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:17:59,708 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 14:17:59,708 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 14:17:59,709 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:18:13,403 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:18:58,802 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.1a990d96a9b9f5291bd9a8d6e2e7be92 "HTTP/1.1 200 OK"
+2025-12-01 14:18:59,043 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.1a990d96a9b9f5291bd9a8d6e2e7be92 "HTTP/1.1 200 OK"
+2025-12-01 14:18:59,314 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:22:28,713 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:22:28,713 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:22:28,713 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:22:28,713 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:22:29,557 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:22:29,573 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:22:29,589 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:22:29,590 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:22:29,590 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:22:29,590 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:22:29,632 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:22:29,632 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:22:29,655 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:22:29,655 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:22:30,403 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 14:22:30,404 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 14:22:30,404 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:22:42,408 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:24:12,678 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:24:12,952 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:24:13,245 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:24:58,713 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.a21f7101a25f6773f589a6baae68f62a "HTTP/1.1 200 OK"
+2025-12-01 14:25:15,688 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:25:16,299 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.a21f7101a25f6773f589a6baae68f62a "HTTP/1.1 200 OK"
+2025-12-01 14:25:16,551 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:25:16,811 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:27:07,906 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:27:07,906 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:27:07,906 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:27:07,906 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:27:07,922 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:27:07,922 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:27:07,922 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:27:07,922 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:27:08,442 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:27:08,458 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:27:08,458 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:27:08,458 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:27:08,458 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:27:08,458 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:27:08,575 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:27:08,575 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:27:08,591 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:27:08,591 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:27:08,707 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:27:08,707 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:27:08,707 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:27:08,707 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:27:08,707 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:27:08,707 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:27:08,768 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:27:08,769 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:27:08,780 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:27:08,781 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:27:23,870 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:27:23,870 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:27:23,870 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:27:23,870 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:27:24,478 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:27:24,479 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:27:24,494 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:27:24,494 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:27:24,495 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:27:24,495 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:27:24,549 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:27:24,550 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:27:24,562 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:27:24,562 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:27:25,295 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 14:27:25,295 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 14:27:25,295 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:27:38,438 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:28:01,239 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.36b003e89161265ecae00850eed8fbb4 "HTTP/1.1 200 OK"
+2025-12-01 14:28:17,492 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:28:18,095 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.36b003e89161265ecae00850eed8fbb4 "HTTP/1.1 200 OK"
+2025-12-01 14:28:18,350 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:28:18,675 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:28:41,967 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.dadda1a5ceec91fad168ba4040bd5548 "HTTP/1.1 200 OK"
+2025-12-01 14:28:56,959 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:28:57,763 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.dadda1a5ceec91fad168ba4040bd5548 "HTTP/1.1 200 OK"
+2025-12-01 14:28:58,013 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:28:58,253 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:29:21,421 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:29:21,629 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-01 14:29:21,871 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:29:45,351 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:29:45,619 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ad809cb219f0d50a055ca09b618100ab "HTTP/1.1 200 OK"
+2025-12-01 14:29:45,960 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:30:53,866 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 14:30:53,866 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 14:30:53,866 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 14:30:53,866 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 14:30:54,681 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 14:30:54,707 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 14:30:54,707 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 14:30:54,707 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 14:30:54,707 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 14:30:54,707 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 14:30:54,764 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 14:30:54,764 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 14:30:54,787 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 14:30:54,790 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 14:30:55,548 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 14:30:55,549 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 14:30:55,550 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 14:31:17,338 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 14:31:40,289 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.ae050d9ca0aac0191ca325a7c2b62522 "HTTP/1.1 200 OK"
+2025-12-01 14:31:40,532 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.ae050d9ca0aac0191ca325a7c2b62522 "HTTP/1.1 200 OK"
+2025-12-01 14:31:40,817 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:32:04,095 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.281f9766b29cd80d525220527348abfd "HTTP/1.1 200 OK"
+2025-12-01 14:32:15,589 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:32:16,187 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.281f9766b29cd80d525220527348abfd "HTTP/1.1 200 OK"
+2025-12-01 14:32:16,430 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:32:16,697 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 14:32:40,672 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.281f9766b29cd80d525220527348abfd "HTTP/1.1 200 OK"
+2025-12-01 14:32:40,894 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.281f9766b29cd80d525220527348abfd "HTTP/1.1 200 OK"
+2025-12-01 14:33:04,185 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.9793053d9a4df54d24c282a305153a2f "HTTP/1.1 200 OK"
+2025-12-01 14:33:17,613 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 14:33:18,522 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.9793053d9a4df54d24c282a305153a2f "HTTP/1.1 200 OK"
+2025-12-01 14:33:18,796 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 14:33:19,078 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 16:36:38,273 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-01 16:36:38,273 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-01 16:36:38,274 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-01 16:36:38,275 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-01 16:36:40,141 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-01 16:36:40,194 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-01 16:36:40,199 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-01 16:36:40,201 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-01 16:36:40,202 - utils.helpers - INFO - AudioManager inicializado
+2025-12-01 16:36:40,202 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-01 16:36:40,422 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-01 16:36:40,424 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-01 16:36:40,465 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-01 16:36:40,468 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-01 16:36:41,336 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-01 16:36:41,337 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-01 16:36:41,338 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-01 16:37:03,342 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-01 16:37:52,290 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.29c51033e4a16a919ba9e98ef9adfcb5 "HTTP/1.1 200 OK"
+2025-12-01 16:38:18,337 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 16:38:18,748 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.29c51033e4a16a919ba9e98ef9adfcb5 "HTTP/1.1 200 OK"
+2025-12-01 16:38:18,953 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 16:38:19,157 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 16:38:45,819 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.51aeb24bc8689f38d1f5b0116ca1ded2 "HTTP/1.1 200 OK"
+2025-12-01 16:38:57,712 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 16:38:58,170 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.51aeb24bc8689f38d1f5b0116ca1ded2 "HTTP/1.1 200 OK"
+2025-12-01 16:38:58,375 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 16:38:58,539 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-01 16:39:24,897 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.d639104377d791bec53723956f3479d0 "HTTP/1.1 200 OK"
+2025-12-01 16:39:47,316 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-01 16:39:47,833 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.d639104377d791bec53723956f3479d0 "HTTP/1.1 200 OK"
+2025-12-01 16:39:47,970 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-01 16:39:48,140 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-03 13:10:48,872 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-03 13:10:48,873 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-03 13:10:48,874 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-03 13:10:48,874 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-03 13:10:50,749 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-03 13:10:50,789 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-03 13:10:50,789 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-03 13:10:50,789 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-03 13:10:50,789 - utils.helpers - INFO - AudioManager inicializado
+2025-12-03 13:10:50,789 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-03 13:10:50,922 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-03 13:10:50,923 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-03 13:10:50,936 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-03 13:10:50,936 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-03 13:10:51,260 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-03 13:10:51,260 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-03 13:10:51,261 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-03 13:11:28,894 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-03 13:12:16,158 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-03 13:12:16,419 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-03 13:12:16,730 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-03 13:12:40,975 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-03 13:12:41,252 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-03 13:13:04,511 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-03 13:13:04,778 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.848c2618f9b9e4aa0412dd35edc094da "HTTP/1.1 200 OK"
+2025-12-03 13:13:27,510 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.6ec933a464c1bb0e3fb7eeeb9fc8cf73 "HTTP/1.1 200 OK"
+2025-12-03 13:13:56,566 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-03 13:13:57,157 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.6ec933a464c1bb0e3fb7eeeb9fc8cf73 "HTTP/1.1 200 OK"
+2025-12-03 13:13:57,417 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-03 13:13:57,807 - modules.audio_detector - INFO - Detector de audio detenido
+2025-12-03 13:13:57,807 - modules.audio_module - INFO - Cola de audio limpiada
+2025-12-03 13:13:57,807 - utils.helpers - INFO - Detección detenida
+2025-12-03 13:14:09,903 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-03 13:14:32,699 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.6ec933a464c1bb0e3fb7eeeb9fc8cf73 "HTTP/1.1 200 OK"
+2025-12-03 13:14:32,872 - httpx - INFO - HTTP Request: PATCH https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?hash_objetos=eq.6ec933a464c1bb0e3fb7eeeb9fc8cf73 "HTTP/1.1 200 OK"
+2025-12-03 13:14:33,051 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
+2025-12-03 13:14:46,678 - modules.audio_module - ERROR - Error con pygame: mixer not initialized
+2025-12-03 17:54:35,599 - modules.database_manager - INFO - Cliente Supabase inicializado correctamente
+2025-12-03 17:54:35,601 - modules.database_manager - WARNING - Para crear tablas en Supabase, úsalas desde el dashboard o SQL Editor
+2025-12-03 17:54:35,601 - modules.database_manager - INFO - Las tablas se crearán automáticamente en el primer uso si no existen
+2025-12-03 17:54:35,602 - utils.helpers - INFO - DatabaseManager inicializado
+2025-12-03 17:54:37,414 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/usuarios?select=%2A&nombre=eq.default "HTTP/1.1 200 OK"
+2025-12-03 17:54:37,453 - modules.audio_module - INFO - gTTS inicializado correctamente
+2025-12-03 17:54:37,455 - modules.audio_module - INFO - Volumen establecido a 1.0
+2025-12-03 17:54:37,455 - modules.audio_module - INFO - Velocidad establecida a 150
+2025-12-03 17:54:37,455 - utils.helpers - INFO - AudioManager inicializado
+2025-12-03 17:54:37,456 - agents.vision_agent - INFO - Cargando modelo YOLO: yolov8n.pt
+2025-12-03 17:54:37,650 - agents.vision_agent - INFO - Modelo YOLO cargado correctamente
+2025-12-03 17:54:37,650 - utils.helpers - INFO - VisionAgent inicializado
+2025-12-03 17:54:37,662 - agents.language_agent - INFO - Cliente OLLAMA inicializado: http://localhost:11434
+2025-12-03 17:54:37,663 - utils.helpers - INFO - LanguageAgent inicializado
+2025-12-03 17:54:37,961 - modules.audio_detector - INFO - Detector de audio iniciado
+2025-12-03 17:54:37,962 - utils.helpers - INFO - Detector de audio inicializado
+2025-12-03 17:54:37,963 - utils.helpers - INFO - Sistema inicializado correctamente
+2025-12-03 17:54:58,730 - utils.helpers - INFO - Detección iniciada correctamente
+2025-12-03 17:55:23,384 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=%2A&hash_objetos=eq.6ee325ada36b1226dd4768eea5ecf190 "HTTP/1.1 200 OK"
+2025-12-03 17:55:51,787 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-12-03 17:55:52,461 - httpx - INFO - HTTP Request: GET https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones?select=uso_count&hash_objetos=eq.6ee325ada36b1226dd4768eea5ecf190 "HTTP/1.1 200 OK"
+2025-12-03 17:55:52,848 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/cache_descripciones "HTTP/1.1 201 Created"
+2025-12-03 17:55:53,161 - httpx - INFO - HTTP Request: POST https://pxizibhxsuadoqbnfcdm.supabase.co/rest/v1/detecciones "HTTP/1.1 201 Created"
